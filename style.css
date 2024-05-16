@@ -1,0 +1,23 @@
+#h2old {
+    color: pink;
+    background-color: black;
+    width: 300px;
+    padding: 5px;
+}
+
+ul {
+    color: blueviolet;
+    background-color: goldenrod;
+    width: 300px;
+}
+
+.same {
+    color: teal;
+    background-color: yellowgreen;
+    width: 300px;
+}
+
+a,p {
+    color: rgb(255, 10, 10);
+    background-color: darkorange;
+}
